@@ -1,0 +1,6 @@
+cffi
+Django
+pycparser
+pytz
+six
+gunicorn
